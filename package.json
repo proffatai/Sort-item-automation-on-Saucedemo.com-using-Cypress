@@ -1,0 +1,16 @@
+{
+  "name": "automation--verify-items-are-sorted-correctly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cypress open",
+    "dev:ci":"cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
